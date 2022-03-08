@@ -71,6 +71,7 @@ button:hover {
   	background-color: #2EE09A;
   	transform: translateY(-7px);
   	color: #15265c;
+	font-weight: bold;
 }
 .intro {
 	font-family: 'Abril Fatface', cursive;
