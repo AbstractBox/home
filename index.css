@@ -73,6 +73,14 @@ button:hover {
   	color: #15265c;
 	font-weight: bold;
 }
+@media (min-width: 650px)
+	.contact {
+		display: visable;
+}
+@media (min-width: 650px)
+	.contact_mobile {
+		display: none;
+}
 .intro {
 	font-family: 'Abril Fatface', cursive;
 	font-size: 4.5rem;
