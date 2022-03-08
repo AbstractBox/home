@@ -86,3 +86,11 @@ button:hover {
 	font-size: 4.5rem;
 	color:#F6F6F6;
 }
+@media (min-width: 650px)
+	.and {
+		display: none;
+}
+@media (min-width: 650px)
+	.intro {
+		font-size: 3rem;
+}
