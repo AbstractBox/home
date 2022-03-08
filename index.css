@@ -94,3 +94,8 @@ button:hover {
 	.intro {
 		font-size: 3rem;
 }
+.flex-container {
+	display: flex;
+	justify-content: flex-start;
+	padding: 30px 10%;
+}
